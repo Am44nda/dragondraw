@@ -37,6 +37,7 @@ h2 {
   margin-top: 0px;
   margin-left: 90px;
   margin-right: 90px;
+  margin-bottom: 30px;
   font-family: "Alumni Sans SC", sans-serif;
   font-size: 2rem;
   color: #BD1616;
@@ -186,7 +187,7 @@ p {
   background: linear-gradient(to left, #b5723e 0%, #ffda56 20%, #e5a842 50%, #ffda56 80%, #b5723e 100%);
   background-color: #f4c86f;
   padding-top: 44px;
-  height: 446px;
+  height: 596px;
   width: 100%;
   display: inline-block;
   position: relative;
